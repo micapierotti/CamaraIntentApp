@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">CamaraIntentApp</string>
+    <string name="open_camara">Open camara</string>
+    <string name="choose_from_gallery">Choose from gallery</string>
+    <string name="descripgal">descripGal</string>
+    <string name="descripcam">descripCam</string>
 </resources>
